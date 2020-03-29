@@ -1,0 +1,1 @@
+this is the newFile that we wanna ignore from git tracking
